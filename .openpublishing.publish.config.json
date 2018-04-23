@@ -33,16 +33,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "officedocs-dev-sharepoint-csom-csom/xml",
+        "OutputYamlFolder": "officedocs-dev-sharepoint-csom-csom/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "officedocs-dev-sharepoint-csom-csom"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "officedocs-dev-sharepoint-csom-csom/api/officedocs-dev-sharepoint-csom-csom/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "officedocs-dev-sharepoint-csom-csom/api"
       ]
     }
   ],
