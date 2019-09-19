@@ -39,7 +39,8 @@
         "SourceXmlFolder": "officedocs-dev-sharepoint-csom-csom/xml",
         "OutputYamlFolder": "officedocs-dev-sharepoint-csom-csom/api",
         "Flatten": true,
-        "id": "officedocs-dev-sharepoint-csom-csom"
+        "id": "officedocs-dev-sharepoint-csom-csom",
+        "SDPMode": "true"
       },
       "SplitTOC": [
         "officedocs-dev-sharepoint-csom-csom/api/officedocs-dev-sharepoint-csom-csom/toc.yml"
@@ -88,8 +89,5 @@
       "target_framework": "net45",
       "version": "latest"
     }
-  ],
-  "ECMA2Yaml": {
-    "SDPMode": "true"
-  }
+  ]
 }
