@@ -49,7 +49,9 @@
       "ms.topic": "reference",
       "audience": "developer",
       "ms.reviewer": "",
+      "ms.suite": "office",
       "ms.prod": "sharepoint",
+      "ms.suite": "office365",
       "ms.technology": "sdk",
       "ms.tgt_pltfrm": "dotnet",
       "apiPlatform": "dotnet"
